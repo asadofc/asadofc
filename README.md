@@ -3,7 +3,7 @@
 
 ---
 
-### 🧡 About Me
+### 🖤 About Me
 - From **Bangladesh** 🇧🇩 and walking the path to **master Python** 🐍  
 - I enjoy creating **Telegram bots** 🤖, **automation scripts** ⚙️, and tools for **everyday life** 🌍  
 - Passionate about crafting projects that are **fun**, **helpful**, and **filled with joy** 🎨✨  
@@ -12,17 +12,17 @@
 
 ### 📚 Currently Learning
 - Python Programming (Scripting, OOP) 🔧  
-- Telegram Bot API with `pyrogram`, `telethon`, `aiogram` 📡  
+- Telegram Bot API with `pyrogram`, `telethon`, `aiogram` 📎  
 - Git & GitHub for collaboration 🛠️  
-- Solving real-life problems with creative thinking 🧠❤️  
+- Solving real-life problems with creative thinking ❤️  
 
 ---
 
 ### 🎯 My Goals
 - Build tools that make life **easier** and **smoother** ✨  
-- Make people smile with **fun little apps and bots** 😄  
-- Create open-source projects that help the **masses** 🌐  
-- Always stay curious and keep the **creative fire burning** 🔥💡  
+- Make people smile with **fun little apps and bots** 😉  
+- Create open-source projects that help the **masses** 🙌  
+- Always stay curious and keep the **creative fire burning** 💡  
 
 ---
 
@@ -39,7 +39,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=asadofc&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=radical&hide_border=false" alt="GitHub Streak" />
 </p>
 
