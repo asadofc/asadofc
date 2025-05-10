@@ -2,7 +2,7 @@
 <h3 align="center">Creative Python Learner • Telegram Bot Developer • Future Dream Coder 💫</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=440&lines=I+love+creating+cool+things+with+Python;Bots%2C+Scripts%2C+Fun+Tools+%F0%9F%94%A5;Always+learning%2C+always+growing!+%F0%9F%8E%93" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=I+love+creating+cool+things+with+Python;Bots%2C+Scripts%2C+Fun+Tools+%F0%9F%94%A5;Always+learning%2C+always+growing!+%F0%9F%8E%93" />
 </p>
 
 ---
