@@ -84,8 +84,8 @@
 ### 📌 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/asadofc/vanishguybot"><img src="https://img.shields.io/badge/My_Bot-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
-  <a href="https://github.com/asadofc/quizydudebot"><img src="https://img.shields.io/badge/Auto_Script-Pyrogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://github.com/asadofc/vanishguy-bot"><img src="https://img.shields.io/badge/My_Bot-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
+  <a href="https://github.com/asadofc/quizydude-bot"><img src="https://img.shields.io/badge/Auto_Script-Pyrogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </p>
 
 ---
