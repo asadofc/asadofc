@@ -73,22 +73,6 @@
 
 ---
 
-### 🐍 Snake Eating Contributions
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/asadofc/asadofc/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
----
-
-### 💻 Code Rain
-
-<p align="center">
-  <img src="https://i.imgur.com/Z6X6eFj.gif" alt="Matrix Code Rain" />
-</p>
-
----
-
 ### 📌 Featured Projects
 
 <p align="center">
