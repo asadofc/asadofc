@@ -84,7 +84,7 @@
 ### 💻 Code Rain
 
 <p align="center">
-  <img src="https://media.giphy.com/media/E1EJ2nAqzB4ti/giphy.gif" alt="Matrix Rain" />
+  <img src="https://i.imgur.com/Z6X6eFj.gif" alt="Matrix Code Rain" />
 </p>
 
 ---
