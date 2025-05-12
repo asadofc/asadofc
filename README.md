@@ -81,6 +81,14 @@
 
 ---
 
+### 💻 Code Rain
+
+<p align="center">
+  <img src="https://media.giphy.com/media/E1EJ2nAqzB4ti/giphy.gif" alt="Matrix Rain" />
+</p>
+
+---
+
 ### 📌 Featured Projects
 
 <p align="center">
