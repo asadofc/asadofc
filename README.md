@@ -76,7 +76,7 @@
 ### 🔁 Random Programming Wisdom
 
 <p align="center">
-  <img src="https://programming-quotes-api.herokuapp.com/quote/random" alt="Programming Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Programming Quote" />
 </p>
 
 ---
