@@ -60,30 +60,22 @@
 
 ### Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 ### Bot Development
 ![Pyrogram](https://img.shields.io/badge/Pyrogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 ![Telethon](https://img.shields.io/badge/Telethon-0088cc?style=for-the-badge&logo=telegram&logoColor=white)
 ![Aiogram](https://img.shields.io/badge/Aiogram-blue?style=for-the-badge&logo=python&logoColor=white)
-![Discord.py](https://img.shields.io/badge/Discord.py-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
 ### Databases & Cloud
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white)
 
 ### Tools & IDEs
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
@@ -181,7 +173,7 @@ YAML         35 mins         █░░░░░░░░░░░░░░░░
 </td>
 <td width="50%">
 
-[![QuizyDude Bot](https://github-readme-stats.vercel.app/api/pin/?username=asadofc&repo=quizydude-bot&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&icon_color=F8D866)](https://github.com/asadofc/quizydude-bot)
+[![ReelsManBot](https://github-readme-stats.vercel.app/api/pin/?username=asadofc&repo=reelsman-bot&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&icon_color=F8D866)](https://github.com/asadofc/quizydude-bot)
 
 </td>
 </tr>
