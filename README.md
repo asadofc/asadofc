@@ -13,6 +13,8 @@
 
 </div>
 
+---
+
 ## 🗯️ About This Passionate Coder
 
 <img align="right" alt="Coding GIF" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
@@ -42,6 +44,8 @@
 </tr>
 </table>
 
+---
+
 ## 🛠️ My Tech Arsenal
 
 <div align="center">
@@ -66,6 +70,8 @@
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
+
+---
 
 ## 📊 GitHub Universe
 
