@@ -137,30 +137,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## ⚡ Real-Time Stats
-
-<div align="center">
-
-### 💻 Weekly Coding Activity
-<!--START_SECTION:waka-->
-```text
-Python       12 hrs 45 mins  ████████████████░░░░░   64.2%
-JavaScript   3 hrs 42 mins   ████░░░░░░░░░░░░░░░░░   18.7%
-Markdown     1 hr 58 mins    ██░░░░░░░░░░░░░░░░░░░   10.0%
-JSON         45 mins         █░░░░░░░░░░░░░░░░░░░░    3.8%
-YAML         35 mins         █░░░░░░░░░░░░░░░░░░░░    3.3%
-```
-<!--END_SECTION:waka-->
-
-### 🎵 Currently Vibing To
-[![Spotify](https://novatorem-asadofc.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_USER_ID)
-
-</div>
-
----
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ## 🌟 Featured Projects
 
 <div align="center">
@@ -173,7 +149,7 @@ YAML         35 mins         █░░░░░░░░░░░░░░░░
 </td>
 <td width="50%">
 
-[![ReelsManBot](https://github-readme-stats.vercel.app/api/pin/?username=asadofc&repo=reelsman-bot&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&icon_color=F8D866)](https://github.com/asadofc/quizydude-bot)
+[![ReelsManBot](https://github-readme-stats.vercel.app/api/pin/?username=asadofc&repo=reelsman-bot&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&icon_color=F8D866)](https://github.com/asadofc/reelsman-bot)
 
 </td>
 </tr>
@@ -191,77 +167,6 @@ YAML         35 mins         █░░░░░░░░░░░░░░░░
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
-
----
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🎮 Fun Zone
-
-<details>
-<summary>🎯 Click to see what I do when not coding!</summary>
-
-<br>
-
-<div align="center">
-
-```python
-# My life outside coding 🌟
-life_balance = {
-    "🎵 Music": "Lo-fi, Electronic, Ambient",
-    "📚 Reading": "Tech blogs, Python docs, Sci-fi novels",
-    "🎮 Gaming": "Strategy games, Puzzle games",
-    "🌃 Night walks": "Best thinking time",
-    "☕ Coffee": "Fuel for late-night coding sessions",
-    "🌱 Learning": "Always picking up new skills"
-}
-
-for activity, description in life_balance.items():
-    print(f"{activity}: {description}")
-```
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-
-</div>
-
-</details>
-
-<details>
-<summary>📊 Detailed GitHub Analytics</summary>
-
-<br>
-
-<div align="center">
-
-![Detailed Stats](https://metrics.lecoq.io/asadofc?template=classic&config.timezone=Asia%2FDhaka&repositories.forks=true&isocalendar=true&languages=true&people=true&activity=true&achievements=true&notable=true&discussions=true&followup=true&lines=true)
-
-</div>
-
-</details>
-
-<details>
-<summary>🌟 My Coding Journey Timeline</summary>
-
-<br>
-
-```mermaid
-gitgraph
-    commit id: "Started Learning Python"
-    commit id: "First Hello World"
-    commit id: "Built First Script"
-    branch telegram-bots
-    commit id: "Discovered Telegram API"
-    commit id: "First Bot Created"
-    commit id: "Advanced Bot Features"
-    checkout main
-    commit id: "Learned Git & GitHub"
-    merge telegram-bots
-    commit id: "Open Source Contributions"
-    commit id: "Community Building"
-    commit id: "Future Projects..."
-```
-
-</details>
 
 ---
 
