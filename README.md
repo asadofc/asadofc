@@ -23,30 +23,17 @@
 
 ## 🎯 What Drives Me
 
-<table>
-<tr>
-<td width="50%">
-
 ### 🚀 Current Mission
 - 🤖 Building **intelligent Telegram bots**
 - ⚡ Creating **automation scripts** for daily tasks
 - 🌟 Contributing to **open-source** projects
 - 📚 **Learning** new technologies every day
 
-</td>
-<td width="50%">
-
 ### 💫 Future Vision
 - 🏆 Become a **Python Expert**
 - 🌍 Help **millions** with my tools
 - 🎨 Create **beautiful** & **functional** apps
 - 🤝 Build a **community** of learners
-
-</td>
-</tr>
-</table>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🛠️ My Tech Arsenal
 
