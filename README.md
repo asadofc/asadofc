@@ -181,11 +181,9 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### Thank you for visiting my digital space! 🚀
-
 <img src="https://komarev.com/ghpvc/?username=asadofc&label=Profile+Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 
-**✨ From Bangladesh with ❤️ - Keep coding, keep creating! ✨**
+**✨ Keep coding, keep creating! ✨**
 
 ⭐️ **Star my repositories if you find them helpful!** ⭐️
 
