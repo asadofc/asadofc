@@ -267,93 +267,19 @@ gitgraph
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🌐 Connect With Me
+### 💌 Connect with Me
 
-<div align="center">
-
-### 💬 Let's Chat & Collaborate!
-
-<table>
-<tr>
-<td align="center">
-<a href="https://t.me/asad_ofc">
-<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-<br><sub><b>@asad_ofc</b></sub>
-</a>
-</td>
-<td align="center">
-<a href="mailto:mr.asadul.islam00@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-<br><sub><b>Email Me</b></sub>
-</a>
-</td>
-<td align="center">
-<a href="https://discord.com/users/1067999831416635473">
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-<br><sub><b>asad_ofc</b></sub>
-</a>
-</td>
-</tr>
-</table>
-
-### 📱 Follow My Journey
-
-<table>
-<tr>
-<td align="center">
-<a href="https://youtube.com/@asad_ofc">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-<br><sub><b>Coding Videos</b></sub>
-</a>
-</td>
-<td align="center">
-<a href="https://instagram.com/aasad_ofc">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-<br><sub><b>Life Updates</b></sub>
-</a>
-</td>
-<td align="center">
-<a href="https://tiktok.com/@asad_ofc">
-<img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
-<br><sub><b>Quick Tips</b></sub>
-</a>
-</td>
-<td align="center">
-<a href="https://x.com/asad_ofc">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white"/>
-<br><sub><b>Tech Thoughts</b></sub>
-</a>
-</td>
-</tr>
-<tr>
-<td align="center">
-<a href="https://facebook.com/aasad.ofc">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-<br><sub><b>Community</b></sub>
-</a>
-</td>
-<td align="center">
-<a href="https://www.threads.net/@aasad_ofc">
-<img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white"/>
-<br><sub><b>Quick Posts</b></sub>
-</a>
-</td>
-<td align="center">
-<a href="https://linkedin.com/in/asadofc">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-<br><sub><b>Professional</b></sub>
-</a>
-</td>
-<td align="center">
-<a href="https://dev.to/asadofc">
-<img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/>
-<br><sub><b>Tech Blogs</b></sub>
-</a>
-</td>
-</tr>
-</table>
-
-</div>
+<p align="center">
+  <a href="https://t.me/asad_ofc"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="mailto:mr.asadul.islam00@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://youtube.com/@asad_ofc"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://instagram.com/aasad_ofc"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://tiktok.com/@asad_ofc"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
+  <a href="https://x.com/asad_ofc"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://facebook.com/aasad.ofc"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://www.threads.net/@aasad_ofc"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" /></a>
+  <a href="https://discord.com/users/1067999831416635473"><img src="https://img.shields.io/badge/Discord-asad__ofc-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+</p>
 
 ---
 
