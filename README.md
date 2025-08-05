@@ -1,14 +1,9 @@
-<div align="center">
-  
-# 🌟 Welcome to Asad's Digital Universe 🌟
+<h1 align="center">Hi, I'm Asadul Islam (Asad)!</h1>
+<h3 align="center">Creative Python Learner • Telegram Bot Developer • Future Dream Coder 💫</h3>
 
-</div>
-
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=800&height=100&lines=Hi%2C+I'm+Asadul+Islam+(Asad)!;Creative+Python+Learner+%F0%9F%90%8D;Telegram+Bot+Developer+%F0%9F%A4%96;Future+Dream+Coder+%F0%9F%92%AB;From+Bangladesh+with+%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=I+love+creating+cool+things+with+Python;Bots%2C+Scripts%2C+Fun+Tools+%F0%9F%94%A5;Always+learning%2C+always+growing!+%F0%9F%8E%93" />
+</p>
 
 <div align="center">
 
