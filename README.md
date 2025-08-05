@@ -126,12 +126,12 @@
 <div align="center">
 <table>
 <tr>
-<td width="75%">
+<td width="50%">
 
 [![VanishGuy Bot](https://github-readme-stats.vercel.app/api/pin/?username=asadofc&repo=vanishguy-bot&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&icon_color=F8D866)](https://github.com/asadofc/vanishguy-bot)
 
 </td>
-<td width="75%">
+<td width="50%">
 
 [![ReelsManBot](https://github-readme-stats.vercel.app/api/pin/?username=asadofc&repo=reelsman-bot&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&icon_color=F8D866)](https://github.com/asadofc/reelsman-bot)
 
