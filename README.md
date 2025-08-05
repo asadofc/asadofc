@@ -17,42 +17,9 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🌈 About This Night Coder
+## 🗯️ About This Passionate Coder
 
 <img align="right" alt="Coding GIF" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
-```python
-class AsadulIslam:
-    def __init__(self):
-        self.name = "Asadul Islam (Asad)"
-        self.location = "Madaripur, Bangladesh 🇧🇩"
-        self.role = "Python Developer & Bot Creator"
-        self.languages = {
-            "expert": ["Python 🐍"],
-            "learning": ["JavaScript", "Go", "Rust"],
-            "interested": ["Machine Learning", "AI"]
-        }
-        self.tools = ["VS Code", "PyCharm", "Git", "Docker"]
-        self.databases = ["SQLite", "PostgreSQL", "MongoDB"]
-        self.cloud = ["Heroku", "Railway", "Render"]
-        
-    def current_status(self):
-        return {
-            "coding": "Building awesome Telegram bots",
-            "learning": "Advanced Python & async programming",
-            "listening": "Lo-fi beats 🎵",
-            "planning": "Next big project idea 💡"
-        }
-    
-    def life_motto(self):
-        return "Code with heart, create with soul ❤️"
-
-# Initialize me
-asad = AsadulIslam()
-print(f"🚀 {asad.life_motto()}")
-```
-
-<br clear="right"/>
 
 ---
 
