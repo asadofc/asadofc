@@ -15,9 +15,15 @@
 
 ---
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## 🗯️ About This Passionate Coder
 
 <img align="right" alt="Coding GIF" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🎯 What Drives Me
 
@@ -46,6 +52,8 @@
 
 ---
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## 🛠️ My Tech Arsenal
 
 <div align="center">
@@ -73,6 +81,8 @@
 
 ---
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## 📊 GitHub Universe
 
 <div align="center">
@@ -91,6 +101,10 @@
 
 </div>
 
+---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## 🏆 Achievement Gallery
 
 <div align="center">
@@ -99,9 +113,17 @@
 
 </div>
 
+---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## 📈 Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=asadofc&custom_title=Asad's%20Contribution%20Graph&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&area=true&hide_border=true" />
+
+---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🐍 Snake Eating My Contributions
 
@@ -110,6 +132,10 @@
 ![Snake animation](https://raw.githubusercontent.com/asadofc/asadofc/output/github-contribution-grid-snake-dark.svg)
 
 </div>
+
+---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🌟 Featured Projects
 
@@ -130,6 +156,10 @@
 </table>
 </div>
 
+---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## 💡 Random Dev Wisdom
 
 <div align="center">
@@ -137,6 +167,10 @@
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
+
+---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 💌 Connect with Me
 
@@ -152,6 +186,10 @@
   <a href="https://discord.com/users/1067999831416635473"><img src="https://img.shields.io/badge/Discord-asad__ofc-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
 
+---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <div align="center">
 
 ## 🌙 Night Coder's Motto
@@ -164,7 +202,11 @@
 
 </div>
 
+---
+
 <div align="center">
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### Thank you for visiting my digital space! 🚀
 
@@ -173,5 +215,7 @@
 **✨ From Bangladesh with ❤️ - Keep coding, keep creating! ✨**
 
 ⭐️ **Star my repositories if you find them helpful!** ⭐️
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </div>
