@@ -1,68 +1,88 @@
-<h1 align="center">Hi, I'm Asadul Islam (Asad)!</h1>
-<h3 align="center">Creative Python Learner • Telegram Bot Developer • Future Dream Coder 💫</h3>
+<div align="center">
+  
+# 🌟 Welcome to Asad's Digital Universe 🌟
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=I+love+creating+cool+things+with+Python;Bots%2C+Scripts%2C+Fun+Tools+%F0%9F%94%A5;Always+learning%2C+always+growing!+%F0%9F%8E%93" />
-</p>
+</div>
 
 <div align="center">
   
-[![](https://visitcount.itsvg.in/api?id=asadofc&icon=0&color=0)](https://visitcount.itsvg.in)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=800&height=100&lines=Hi%2C+I'm+Asadul+Islam+(Asad)!;Creative+Python+Learner+%F0%9F%90%8D;Telegram+Bot+Developer+%F0%9F%A4%96;Future+Dream+Coder+%F0%9F%92%AB;From+Bangladesh+with+%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
+
+</div>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=asadofc&style=for-the-badge&color=blueviolet)
+[![GitHub followers](https://img.shields.io/github/followers/asadofc?style=for-the-badge&color=orange)](https://github.com/asadofc)
+[![GitHub stars](https://img.shields.io/github/stars/asadofc?style=for-the-badge&color=yellow)](https://github.com/asadofc)
 
 </div>
 
 ---
 
-### 🖤 About Me
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-- From **Bangladesh** 🇧🇩, walking the path to **master Python** 🐍  
-- I love building **Telegram bots** 🤖, **automation scripts** ⚙️, and handy tools for **everyday life** 🌍  
-- Passionate about crafting projects that are **fun**, **helpful**, and **joyful** 🎨✨  
+## 🌈 About This Night Coder
 
-<details>
-<summary>🎭 More About Me</summary>
+<img align="right" alt="Coding GIF" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ```python
-class Asad:
+class AsadulIslam:
     def __init__(self):
-        self.name = "Asadul Islam"
-        self.location = "Bangladesh 🇧🇩"
-        self.languages = ["Python", "JavaScript"]
-        self.interests = ["Bot Development", "Automation", "Open Source"]
-        self.current_focus = "Building amazing Telegram bots"
-        self.fun_fact = "I code best at night 🌙"
+        self.name = "Asadul Islam (Asad)"
+        self.location = "Madaripur, Bangladesh 🇧🇩"
+        self.role = "Python Developer & Bot Creator"
+        self.languages = {
+            "expert": ["Python 🐍"],
+            "learning": ["JavaScript", "Go", "Rust"],
+            "interested": ["Machine Learning", "AI"]
+        }
+        self.tools = ["VS Code", "PyCharm", "Git", "Docker"]
+        self.databases = ["SQLite", "PostgreSQL", "MongoDB"]
+        self.cloud = ["Heroku", "Railway", "Render"]
+        
+    def current_status(self):
+        return {
+            "coding": "Building awesome Telegram bots",
+            "learning": "Advanced Python & async programming",
+            "listening": "Lo-fi beats 🎵",
+            "planning": "Next big project idea 💡"
+        }
     
-    def say_hi(self):
-        print("Thanks for visiting my profile! Let's build something amazing together!")
+    def life_motto(self):
+        return "Code with heart, create with soul ❤️"
 
-me = Asad()
-me.say_hi()
+# Initialize me
+asad = AsadulIslam()
+print(f"🚀 {asad.life_motto()}")
 ```
 
-</details>
+<br clear="right"/>
 
 ---
 
-### 📚 Currently Learning
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🎯 What Drives Me
 
 <table>
 <tr>
-<td valign="top" width="50%">
+<td width="50%">
 
-**🐍 Python Development**
-- Advanced Python Programming
-- Object-Oriented Programming
-- Async/Await Patterns
-- Error Handling & Testing
+### 🚀 Current Mission
+- 🤖 Building **intelligent Telegram bots**
+- ⚡ Creating **automation scripts** for daily tasks
+- 🌟 Contributing to **open-source** projects
+- 📚 **Learning** new technologies every day
 
 </td>
-<td valign="top" width="50%">
+<td width="50%">
 
-**🤖 Bot Development**
-- Telegram Bot API
-- `pyrogram`, `telethon`, `aiogram`
-- Database Integration
-- User Experience Design
+### 💫 Future Vision
+- 🏆 Become a **Python Expert**
+- 🌍 Help **millions** with my tools
+- 🎨 Create **beautiful** & **functional** apps
+- 🤝 Build a **community** of learners
 
 </td>
 </tr>
@@ -70,202 +90,369 @@ me.say_hi()
 
 ---
 
-### 🎯 My Goals
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
-- Build tools that make life **easier** and **smoother** ✨  
-- Make people smile with **fun little apps and bots** 😉  
-- Create open-source projects that help the **masses** 🙌  
-- Keep learning and feed the **creative fire** 💡  
-
-<br clear="right"/>
-
----
-
-### 🧰 Tech Stack I Use
+## 🛠️ My Tech Arsenal
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+
+### Bot Development
 ![Pyrogram](https://img.shields.io/badge/Pyrogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 ![Telethon](https://img.shields.io/badge/Telethon-0088cc?style=for-the-badge&logo=telegram&logoColor=white)
 ![Aiogram](https://img.shields.io/badge/Aiogram-blue?style=for-the-badge&logo=python&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Discord.py](https://img.shields.io/badge/Discord.py-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+
+### Databases & Cloud
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white)
+
+### Tools & IDEs
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
 ---
 
-### 📊 GitHub Stats
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 📊 GitHub Universe
 
 <div align="center">
 <table>
 <tr>
 <td>
-<img src="https://github-readme-stats.vercel.app/api?username=asadofc&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=asadofc&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF" height="180"/>
 </td>
 <td>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=asadofc&theme=radical&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=asadofc&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" height="180"/>
 </td>
 </tr>
 </table>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadofc&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadofc&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=10" />
 
 </div>
 
 ---
 
-### 🏆 GitHub Trophies
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=asadofc&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
-</p>
-
----
-
-### 🔥 Contributions Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=asadofc&custom_title=Asad's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=708090&line=24292E&point=24292E&area=true&hide_border=true" />
-
----
-
-### 🐍 Snake Eating My Contributions
+## 🏆 Achievement Gallery
 
 <div align="center">
   
-![Snake animation](https://github.com/asadofc/asadofc/blob/output/github-contribution-grid-snake.svg)
+<img src="https://github-profile-trophy.vercel.app/?username=asadofc&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" />
 
 </div>
 
 ---
 
-### 💻 Weekly Development Breakdown
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+## 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=asadofc&custom_title=Asad's%20Contribution%20Graph&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&area=true&hide_border=true" />
+
+---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🐍 Snake Eating My Contributions
+
+<div align="center">
+  
+![Snake animation](https://raw.githubusercontent.com/asadofc/asadofc/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## ⚡ Real-Time Stats
+
+<div align="center">
+
+### 💻 Weekly Coding Activity
 <!--START_SECTION:waka-->
 ```text
-Python       8 hrs 45 mins   ████████████░░░░░░░░░░░░   48.2%
-JavaScript   3 hrs 12 mins   ████░░░░░░░░░░░░░░░░░░░░   17.6%
-Markdown     2 hrs 34 mins   ███░░░░░░░░░░░░░░░░░░░░░   14.1%
-YAML         1 hr 28 mins    ██░░░░░░░░░░░░░░░░░░░░░░    8.1%
-Other        2 hrs 11 mins   ███░░░░░░░░░░░░░░░░░░░░░   12.0%
+Python       12 hrs 45 mins  ████████████████░░░░░   64.2%
+JavaScript   3 hrs 42 mins   ████░░░░░░░░░░░░░░░░░   18.7%
+Markdown     1 hr 58 mins    ██░░░░░░░░░░░░░░░░░░░   10.0%
+JSON         45 mins         █░░░░░░░░░░░░░░░░░░░░    3.8%
+YAML         35 mins         █░░░░░░░░░░░░░░░░░░░░    3.3%
 ```
 <!--END_SECTION:waka-->
 
----
-
-### 🔁 Random Programming Wisdom
-
-<div align="center">
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)
-
-</div>
-
----
-
-### 📌 Featured Projects
-
-<div align="center">
-
-[![VanishGuy Bot](https://github-readme-stats.vercel.app/api/pin/?username=asadofc&repo=vanishguy-bot&theme=radical&hide_border=true)](https://github.com/asadofc/vanishguy-bot)
-[![QuizyDude Bot](https://github-readme-stats.vercel.app/api/pin/?username=asadofc&repo=quizydude-bot&theme=radical&hide_border=true)](https://github.com/asadofc/quizydude-bot)
-
-</div>
-
----
-
-### 🎵 Spotify Playing
-
-<div align="center">
-
+### 🎵 Currently Vibing To
 [![Spotify](https://novatorem-asadofc.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_USER_ID)
 
 </div>
 
 ---
 
-### 💌 Connect with Me
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🌟 Featured Projects
+
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+
+[![VanishGuy Bot](https://github-readme-stats.vercel.app/api/pin/?username=asadofc&repo=vanishguy-bot&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&icon_color=F8D866)](https://github.com/asadofc/vanishguy-bot)
+
+</td>
+<td width="50%">
+
+[![QuizyDude Bot](https://github-readme-stats.vercel.app/api/pin/?username=asadofc&repo=quizydude-bot&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&icon_color=F8D866)](https://github.com/asadofc/quizydude-bot)
+
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 💡 Random Dev Wisdom
 
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/asad_ofc)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mr.asadul.islam00@gmail.com)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@asad_ofc)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aasad_ofc)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@asad_ofc)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/asad_ofc)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/aasad.ofc)
-[![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.net/@aasad_ofc)
-[![Discord](https://img.shields.io/badge/Discord-asad__ofc-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1067999831416635473)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
 
 ---
 
-### 📈 Profile Summary
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🎮 Fun Zone
 
 <details>
-<summary>📊 Detailed GitHub Metrics</summary>
+<summary>🎯 Click to see what I do when not coding!</summary>
 
-![Metrics](https://metrics.lecoq.io/asadofc?template=classic&config.timezone=Asia%2FDhaka)
+<br>
+
+<div align="center">
+
+```python
+# My life outside coding 🌟
+life_balance = {
+    "🎵 Music": "Lo-fi, Electronic, Ambient",
+    "📚 Reading": "Tech blogs, Python docs, Sci-fi novels",
+    "🎮 Gaming": "Strategy games, Puzzle games",
+    "🌃 Night walks": "Best thinking time",
+    "☕ Coffee": "Fuel for late-night coding sessions",
+    "🌱 Learning": "Always picking up new skills"
+}
+
+for activity, description in life_balance.items():
+    print(f"{activity}: {description}")
+```
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
+</div>
+
+</details>
+
+<details>
+<summary>📊 Detailed GitHub Analytics</summary>
+
+<br>
+
+<div align="center">
+
+![Detailed Stats](https://metrics.lecoq.io/asadofc?template=classic&config.timezone=Asia%2FDhaka&repositories.forks=true&isocalendar=true&languages=true&people=true&activity=true&achievements=true&notable=true&discussions=true&followup=true&lines=true)
+
+</div>
+
+</details>
+
+<details>
+<summary>🌟 My Coding Journey Timeline</summary>
+
+<br>
+
+```mermaid
+gitgraph
+    commit id: "Started Learning Python"
+    commit id: "First Hello World"
+    commit id: "Built First Script"
+    branch telegram-bots
+    commit id: "Discovered Telegram API"
+    commit id: "First Bot Created"
+    commit id: "Advanced Bot Features"
+    checkout main
+    commit id: "Learned Git & GitHub"
+    merge telegram-bots
+    commit id: "Open Source Contributions"
+    commit id: "Community Building"
+    commit id: "Future Projects..."
+```
 
 </details>
 
 ---
 
-### 💖 Favorite Quote
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🌐 Connect With Me
 
 <div align="center">
 
-> **Code with heart, create with soul.**
+### 💬 Let's Chat & Collaborate!
+
+<table>
+<tr>
+<td align="center">
+<a href="https://t.me/asad_ofc">
+<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+<br><sub><b>@asad_ofc</b></sub>
+</a>
+</td>
+<td align="center">
+<a href="mailto:mr.asadul.islam00@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<br><sub><b>Email Me</b></sub>
+</a>
+</td>
+<td align="center">
+<a href="https://discord.com/users/1067999831416635473">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+<br><sub><b>asad_ofc</b></sub>
+</a>
+</td>
+</tr>
+</table>
+
+### 📱 Follow My Journey
+
+<table>
+<tr>
+<td align="center">
+<a href="https://youtube.com/@asad_ofc">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+<br><sub><b>Coding Videos</b></sub>
+</a>
+</td>
+<td align="center">
+<a href="https://instagram.com/aasad_ofc">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<br><sub><b>Life Updates</b></sub>
+</a>
+</td>
+<td align="center">
+<a href="https://tiktok.com/@asad_ofc">
+<img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
+<br><sub><b>Quick Tips</b></sub>
+</a>
+</td>
+<td align="center">
+<a href="https://x.com/asad_ofc">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white"/>
+<br><sub><b>Tech Thoughts</b></sub>
+</a>
+</td>
+</tr>
+<tr>
+<td align="center">
+<a href="https://facebook.com/aasad.ofc">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+<br><sub><b>Community</b></sub>
+</a>
+</td>
+<td align="center">
+<a href="https://www.threads.net/@aasad_ofc">
+<img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white"/>
+<br><sub><b>Quick Posts</b></sub>
+</a>
+</td>
+<td align="center">
+<a href="https://linkedin.com/in/asadofc">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<br><sub><b>Professional</b></sub>
+</a>
+</td>
+<td align="center">
+<a href="https://dev.to/asadofc">
+<img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/>
+<br><sub><b>Tech Blogs</b></sub>
+</a>
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-### 🌙 Fun Fact
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 💝 Support My Work
 
 <div align="center">
-  
-I'm a **nyctophile** who codes best when the world sleeps — night makes my dreams come alive ✨🌌
 
-![Night Coding](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)
+If you like what I do, consider supporting me! ☕
+
+<a href="https://www.buymeacoffee.com/asadofc">
+<img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
+</a>
+<a href="https://ko-fi.com/asadofc">
+<img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white"/>
+</a>
+<a href="https://paypal.me/asadofc">
+<img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-### 🎮 When I'm Not Coding
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="300">
+<div align="center">
 
-```python
-hobbies = {
-    "reading": "📚 Tech blogs and documentation",
-    "gaming": "🎮 Strategy and puzzle games", 
-    "music": "🎵 Lo-fi beats while coding",
-    "exploring": "🌍 New technologies and frameworks"
-}
+## 🌙 Night Coder's Motto
 
-for hobby, description in hobbies.items():
-    print(f"{hobby.title()}: {description}")
-```
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
-<br clear="right"/>
+### *"Code with heart, create with soul"*
+
+> I'm a **nyctophile** who codes best when the world sleeps — night makes my dreams come alive ✨🌌
+
+</div>
 
 ---
 
 <div align="center">
 
-### Thanks for visiting! 🚀
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-![Visitor Count](https://komarev.com/ghpvc/?username=asadofc&label=Profile+Views&color=blueviolet&style=for-the-badge)
+### Thank you for visiting my digital space! 🚀
 
-⭐️ From [asadofc](https://github.com/asadofc)
+<img src="https://komarev.com/ghpvc/?username=asadofc&label=Profile+Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+
+**✨ From Bangladesh with ❤️ - Keep coding, keep creating! ✨**
+
+⭐️ **Star my repositories if you find them helpful!** ⭐️
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </div>
