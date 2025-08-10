@@ -49,6 +49,10 @@
 ![Telethon](https://img.shields.io/badge/Telethon-0088cc?style=for-the-badge&logo=telegram&logoColor=white)
 ![Aiogram](https://img.shields.io/badge/Aiogram-blue?style=for-the-badge&logo=python&logoColor=white)
 
+### Hosting Platform
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white)
+
 ### Databases & Cloud
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
