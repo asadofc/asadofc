@@ -41,13 +41,14 @@
 
 <div align="center">
 
-### Languages & Frameworks
+### Languages
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
-### Bot Development
+### Telegram libraries
 ![Pyrogram](https://img.shields.io/badge/Pyrogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 ![Telethon](https://img.shields.io/badge/Telethon-0088cc?style=for-the-badge&logo=telegram&logoColor=white)
 ![Aiogram](https://img.shields.io/badge/Aiogram-blue?style=for-the-badge&logo=python&logoColor=white)
+![PTB](https://img.shields.io/badge/Python--Telegram--Bot-FFD43B?style=for-the-badge&logo=telegram&logoColor=blue)
 
 ### Hosting Platform
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
