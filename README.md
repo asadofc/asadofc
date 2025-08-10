@@ -186,8 +186,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<img src="https://komarev.com/ghpvc/?username=asadofc&label=Profile+Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-
 **✨ Keep coding, keep creating! ✨**
 
 ⭐️ **Star my repositories if you find them helpful!** ⭐️
