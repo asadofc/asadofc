@@ -85,10 +85,6 @@
 
 <div align="center">
 
-## 🌙 Night Coder's Motto
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-
 ### *"Code with heart, create with soul"*
 
 > I'm a **nyctophile** who codes best when the world sleeps, night makes my dreams come alive ✨🌌
