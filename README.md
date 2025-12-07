@@ -46,22 +46,16 @@
 
 ### Telegram libraries
 ![Pyrogram](https://img.shields.io/badge/Pyrogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-![Telethon](https://img.shields.io/badge/Telethon-0088cc?style=for-the-badge&logo=telegram&logoColor=white)
-![Aiogram](https://img.shields.io/badge/Aiogram-blue?style=for-the-badge&logo=python&logoColor=white)
-![PTB](https://img.shields.io/badge/Python--Telegram--Bot-FFD43B?style=for-the-badge&logo=telegram&logoColor=blue)
 
 ### Hosting Platform
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white)
 
 ### Databases & Cloud
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Tools & IDEs
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
@@ -119,27 +113,6 @@
 
 [![GitHub Game of Life](https://github4life.herokuapp.com/asadofc.gif)](https://github4life.herokuapp.com/asadofc)
 
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🌟 Featured Projects
-
-<div align="center">
-<table>
-<tr>
-<td width="50%">
-
-[![VanishGuy Bot](https://github-readme-stats.vercel.app/api/pin/?username=asadofc&repo=vanishguy-bot&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&icon_color=F8D866)](https://github.com/asadofc/vanishguy-bot)
-
-</td>
-<td width="50%">
-
-[![ReelsManBot](https://github-readme-stats.vercel.app/api/pin/?username=asadofc&repo=reelsman-bot&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&icon_color=F8D866)](https://github.com/asadofc/reelsman-bot)
-
-</td>
-</tr>
-</table>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
