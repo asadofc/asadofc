@@ -93,24 +93,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🎨 Dynamic Code Visualization
-
-<div align="center">
-  
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=🚀+Coding+since+2023;💻+Python+Developer;🤖+Bot+Creator;📚+Always+Learning;🌟+Open+Source+Contributor;⚡+Automation+Expert)
-
-<br>
-
-![Animated GIF](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
-
-<br>
-
-[![GitHub Game of Life](https://github4life.herokuapp.com/asadofc.gif)](https://github4life.herokuapp.com/asadofc)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ## 💡 Random Dev Wisdom
 
 <div align="center">
