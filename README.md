@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Asadul Islam (Asad)!</h1>
-<h3 align="center">Creative Python Learner 💫</h3>
+<h3 align="center">Creative Python Learner</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=I+love+creating+cool+things+with+Python;Bots%2C+Scripts%2C+Fun+Tools+%F0%9F%94%A5;Always+learning%2C+always+growing!+%F0%9F%8E%93" />
@@ -15,23 +15,21 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🎯 What Drives Me
+### Currently Thinking
+- Building **Clean, Simple and Easy Telegram bots**
+- Creating **automation scripts** for daily tasks
+- Contributing to **open-source** projects
+- **Learning** new libraries and frameworks every day
 
-### 🚀 Current Mission
-- 🤖 Building **intelligent Telegram bots**
-- ⚡ Creating **automation scripts** for daily tasks
-- 🌟 Contributing to **open-source** projects
-- 📚 **Learning** new technologies every day
-
-### 💫 Future Vision
-- 🏆 Become a **Python Expert**
-- 🌍 Help **millions** with my tools
-- 🎨 Create **beautiful** & **functional** apps
-- 🤝 Build a **community** of learners
+### Future Vision
+- Become good at **Python and Pyrogram**
+- Help **peoples** with my tools
+- Create **beautiful** & **functional** bots
+- Build a **community** of learners
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🛠️ My Tech Arsenal
+## My Tech Arsenal
 
 <div align="center">
 
@@ -57,7 +55,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 💡 Random Dev Wisdom
+## Random Dev Wisdom
 
 <div align="center">
 
@@ -67,7 +65,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 💌 Connect with Me
+## Connect with Me
 
 <p align="center">
   <a href="https://t.me/asad_ofc"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
@@ -87,7 +85,7 @@
 
 ### *"Code with heart, create with soul"*
 
-> I'm a **nyctophile** who codes best when the world sleeps, night makes my dreams come alive ✨🌌
+> I'm a **nyctophile** who codes best when the world sleeps, night makes my dreams come alive!
 
 </div>
 
