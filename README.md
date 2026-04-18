@@ -12,15 +12,11 @@
 
 </div>
 
-## Random Dev Wisdom
-
 <div align="center">
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
-
-## Connect with Me
 
 <p align="center">
   <a href="https://t.me/asad_ofc"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
