@@ -1,8 +1,4 @@
-<h1 align="center">Hi, I'm Asadul Islam (Asad)!</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=I+love+creating+cool+things+with+Python;Bots%2C+Scripts%2C+Fun+Tools+%F0%9F%94%A5;Always+learning%2C+always+growing!+%F0%9F%8E%93" />
-</p>
+<h1 align="center">I'm Asadul Islam (Asad)!</h1>
 
 <div align="center">
 
@@ -25,12 +21,6 @@
 
 <div align="center">
 
-### *"Code with heart, create with soul"*
-
-> I'm a **nyctophile** who codes best when the world sleeps, night makes my dreams come alive!
-
-</div>
-
-<div align="center">
+> I'm a **nyctophile** who codes best when the world sleeps!
 
 </div>
